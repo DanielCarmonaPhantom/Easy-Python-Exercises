@@ -2,6 +2,10 @@
 
 Para empezar, descargaremos la carpeta desde un fork, esto para que al final, puedas enviarme tus respuestas y pueda darte feedback.
 
+Rquesisitos: 
+
+* Tener instalado git. Si aun no tienes git, sigue este [Tutorial](https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub)
+
 ## Paso 1: Hacer Fork
 
 En la parte superior derecha, hay un botón que dice Fork 
