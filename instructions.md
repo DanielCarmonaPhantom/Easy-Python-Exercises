@@ -20,4 +20,4 @@ Abajo de cada ejercicio, viene un código de test que pondra a prueba tu funció
 
 <img src='./assets/test.png' width='450'>
 
-Ahora si, ¡A darle a los ejercicios!
+Ahora si, ¡a darle a los ejercicios!
