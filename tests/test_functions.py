@@ -6,7 +6,6 @@ class Function_testing:
         if self.resultado == self.esperado:
             print('¡Superaste la prueba!')
         else: 
-
             print('Test no existoso')
 
     def test_excercise_two(self, resultado, esperado):
@@ -24,6 +23,7 @@ class Function_testing:
             print(f'¡Superaste la prueba {prueba}!')
         else: 
             print(f'Test {prueba }no existoso \nSe esperaba {self.esperado} y tu resultado fue {self.resultado}' )
+
 
 
     
