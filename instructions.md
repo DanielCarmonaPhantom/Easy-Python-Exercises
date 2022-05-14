@@ -20,8 +20,8 @@ Le darás click al boton verde y te abrira unas opciones, nuevamente daras click
 
 ## Paso 3: Posicionarte en la carpeta que descargaras el repo
 
-Abriremos nuestra consola y estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
-```Basch
+Abriremos nuestra consola y automaticamente estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
+```Bash
 cd Desktop
 ```
 Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner `cd desk` y precionar `TAB` y te auto-completara.
@@ -35,5 +35,5 @@ Mac: Pondras `git clone` y daras click derecho y presionaras pegar.
 Debes tener algo así:
 
 ```Git
-git clone 
+git clone https://github.com/TUUSUARIO/Python-Exercises-Easy.git
 ```
