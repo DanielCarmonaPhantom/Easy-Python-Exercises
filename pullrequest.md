@@ -13,11 +13,13 @@ Esto subira los elementos modificados.
 
 ### Paso 2: Realizar el commit
 
-Describe tu proyecto añadiendole **1 solo nombre tuyo** como: 
+Describe tu proyecto ejecutando un commit y añadiendole **1 solo nombre tuyo** como: 
 
 ```Git
 git commit -m "Ejercicios - NOMBRE"
 ```
+
+Presionar enter y esto pondra nombre a tu trabajo realizado.
 
 ### Paso 3: Hacer push
 
