@@ -12,7 +12,7 @@ En la parte superior derecha, hay un botón que dice Fork
 
 ![](https://sammyk.s3.amazonaws.com/blog/images/2014-05-28/fork.png)
 
-Le darás click y tendrás el repositorio en tu perfil. Cualquiera que entre a tu perfil vera que trabajaste en proyectos de Python.
+Le darás click y te llevará a crear un repositorio propio. Le darás `Create fork` y tendrás el repositorio en tu perfil. Cualquiera que entre a tu perfil vera que trabajaste en proyectos de Python.
 
 ## Paso 2: Clonar tu repositorio en tu computadora
 
