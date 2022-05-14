@@ -12,4 +12,6 @@ Ejemplo 1:
 
 <img src='./assets/ejemplo1.png' width='450'>
 
+Lo que debes editar es lo que esta **dentro de la función**.
+
 
