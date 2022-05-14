@@ -41,4 +41,4 @@ Le daras enter y automaticamente se te clonara el repositorio en tu escritorio.
 
 Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y seleccionaras la carpeta clonada.
 
-<a href='instructions.md'>Instrucciones del Notebook</a>
+<a href='README.md'>Instrucciones del Notebook</a>
