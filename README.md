@@ -10,6 +10,6 @@ Se cuentan con 10 ejercicios que te explicaran que es lo que debe hacer cada pro
 
 Ejemplo 1:
 
-<img src='./assets/ejemplo1.png'
+<img src='./assets/ejemplo1.png'>
 
 
