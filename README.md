@@ -4,4 +4,4 @@ Estos ejercicios estan hechos para que puedas practicar tu conocimiento sobre st
 
 Cantidad de ejercicios: 10
 
-Para empeazar, deberas descargar la carpeta siguiendo los <a href='download.md'>siguientes pasos</a>
+Para empeazar, deberas descargar la carpeta siguiendo los <a href='download.md' target="_blank">siguientes pasos</a>
