@@ -22,6 +22,6 @@ Puedes crear una celda de código para probar tu función.
 
 <img src='./assets/ejemplo3.png' width='450'>
 
-Abajo de cada ejercicio, viene un código de test que pondra a prueba tu función. Se le enviaran diferentes datos y te dira si paso la prueba.
+Abajo de cada ejercicio, viene un código de test que pondra a prueba tu función, enviandole diferentes datos, y despues de hacer el testeo, te dira si tu función paso la prueba.
 
 <img src='./assets/test.png' width='450'>
