@@ -15,3 +15,6 @@ En la parte superior derecha, hay un boton que dice Fork
 Le darás click y tendras el repositorio en tu perfil. Cualquiera que entre a tu perfil vera que trabajaste en proyectos de Python.
 
 ### Paso 2: Clonar tu repositorio en tu computadora
+
+Ya que tengas el proyecto en tu repositorios, lo abriras y veras la misma pantalla pero ahora hay un boton verde que dice Code
+
