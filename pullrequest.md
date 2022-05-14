@@ -41,8 +41,10 @@ Ahora te aparecera un recuadro que dice `Esta rama tiene una contribución de: T
 
 <img src="https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png" width="450">
 
-Te abrira unas opciones y daras click en `Open Pull Requests`.
+Se desplegara unas opciones y daras click en `Open Pull Requests`.
 
-Ya te abrira una página para enviar tu trabajo y ya viene definido el nombre de tu trabajo. 
+Ya te abrirá una página para enviar tu trabajo y ya viene definido el nombre de tu trabajo. 
 
-Le darás al boton berde que dice `Create pull requqest
+Le darás al boton berde que dice `Create pull request``
+
+¡Listo! Ya subiste tus ejercicios ¡Felicidades! pronto te mandare mensaje comentando las respuestas.
