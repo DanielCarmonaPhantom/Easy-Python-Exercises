@@ -20,7 +20,7 @@ Ya que tengas el proyecto en tu repositorios, lo abrirás y veras la misma panta
 
 ![](https://www.freecodecamp.org/espanol/news/content/images/2020/12/clone.jpg)
 
-Le darás click al botón verde y te abrirá unas opciones, nuevamente darás click para copiar la ruta de tu repositorio como en la imagen.
+Le darás click al botón verde y te abrirá unas opciones, ahora le daras click al de copiar para obtener la ruta de tu repositorio como en la imagen.
 
 ## Paso 3: Posicionarte en la carpeta donde clonarás el repo
 
