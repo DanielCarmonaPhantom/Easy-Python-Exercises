@@ -27,4 +27,11 @@ Ya que hayas hecho el commit, ahora subiras el proyecto.
 git push origin exercises
 ```
 
-Estamos subiendo la rama exercises que creamos cuando clonamos el repo
+Estamos subiendo la rama exercises que creamos cuando clonamos el repo.
+
+### Paso 4: Hacer pull request
+
+En tu repositorio que hiciste fork, donde hay un boton arriba a la izquierda que dice `main`, a lado te debe aparecer `2 branches`.
+
+![](https://geeks.ms/jorge/wp-content/uploads/sites/6/2020/10/20201008_02.png)
+
