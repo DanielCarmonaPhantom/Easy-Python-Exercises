@@ -4,7 +4,7 @@ Para empezar, descargaremos la carpeta desde un fork, esto para que al final, pu
 
 Rquesisitos: 
 
-* Tener instalado git. Si aun no tienes git, sigue este [Tutorial](https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub)
+* Tener instalado git. Si aun no tienes git, sigue este [Tutorial](https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub).
 
 ## Paso 1: Hacer Fork
 
