@@ -1,6 +1,6 @@
 # Instrucciones de Notebook
 
-Ya que tienes tu carpta abierta en tu editor de código, los ejercicios se encuentran en el archivo `Ejercicios.ipynb` y será el único archivo que deberás trabajar.
+Ya que tienes tu carpta abierta en tu editor de código, los ejercicios se encuentran en el archivo `Ejercicios.ipynb` y será el único archivo que debes trabajar.
 
 Cada ejercicio vendrá con sus instrucciones. Aquí veremos un ejemplo:
 
@@ -16,7 +16,7 @@ Puedes crear una celda de código para probar tu función.
 
 <img src='./assets/ejemplo3.png' width='450'>
 
-Abajo de cada ejercicio, viene un código de test que pondra a prueba tu función, enviandole diferentes datos, y despues de hacer el testeo, te dira si tu función paso la prueba.
+Abajo de cada ejercicio, viene un código de test que pondrá a prueba tu función, enviandole diferentes datos, y despues de hacer el testeo, te dira si tu función paso la prueba.
 
 <img src='./assets/test.png' width='450'>
 
