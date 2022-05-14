@@ -42,7 +42,7 @@ Le darás enter y automáticamente se te clonará el repositorio en tu escritori
 Para que puedas subir tus cambios, necesitaras trabajar en una nueva rama, solo deberas usar el siguiente comando:
 
 ```Git
-git chekout -b "ejercicios"
+git chekout -b "exercises"
 ```
 
 Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y seleccionaras la carpeta clonada.
