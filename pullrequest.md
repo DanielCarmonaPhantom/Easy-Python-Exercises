@@ -40,3 +40,9 @@ Vas a darle click al boton main y seleccionaras la rama `exercises`
 Ahora te aparecera un recuadro que dice `Esta rama tiene una contribución de: TU NOMBRE` y a la derecha aparece `Contribute`.
 
 <img src="https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png" width="450">
+
+Te abrira unas opciones y daras click en `Open Pull Requests`.
+
+Ya te abrira una página para enviar tu trabajo y ya viene definido el nombre de tu trabajo. 
+
+Le darás al boton berde que dice `Create pull requqest
