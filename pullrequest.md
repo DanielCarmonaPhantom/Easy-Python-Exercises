@@ -27,7 +27,7 @@ Ya que hayas hecho el commit, ahora subiras el proyecto.
 git push origin exercises
 ```
 
-Estamos subiendo la rama exercises que creamos cuando clonamos el repo.
+Estamos subiendo la rama `exercises` que creamos cuando clonamos el repo.
 
 ### Paso 4: Hacer pull request
 
