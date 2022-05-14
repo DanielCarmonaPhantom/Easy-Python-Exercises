@@ -24,4 +24,16 @@ Abriremos nuestra consola y estaremos posicionados en la carpeta de usuario así
 ```Basch
 cd Desktop
 ```
-Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner `cd desk` y precionar `TAB`
+Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner `cd desk` y precionar `TAB` y te auto-completara.
+
+Una vez estando en la carpeta escritorio en la terminal, procederemos a clonar el repositorio de GitHub colocando el comando `git clone` + la url que copiaste en el paso 2
+
+Windows: Pondras `git clone`y presionaras `control` + `c` para pegar la url
+
+Mac: Pondras `git clone` y daras click derecho y presionaras pegar.
+
+Debes tener algo así:
+
+```Git
+git clone 
+```
