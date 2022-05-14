@@ -4,7 +4,10 @@ Estos ejercicios estan hechos para que puedas practicar tu conocimiento sobre st
 
 Cantidad de ejercicios: 10
 
+## Dercargar la carpeta
+
 Para empeazar, deberas descargar la carpeta siguiendo los <a href='download.md'>siguientes pasos</a>
 
-Se cuentan con 10 ejercicios que te explicaran que es lo que debe debe hacer cada programa solicitado.
+## Instrucciones del notebook
+Antes de empezar, te recomendamos leer las <a href='instructions.md'>Instrucciones del Notebook</a> que incluye un ejemplo de prueba. 
 
