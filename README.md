@@ -8,4 +8,8 @@ Para empeazar, deberas descargar la carpeta siguiendo los <a href='download.md'>
 
 Se cuentan con 10 ejercicios que te explicaran que es lo que debe hacer cada programa solicitado.
 
+Ejemplo 1:
+
+<img src='./assets/ejemplo1.png'
+
 
