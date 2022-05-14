@@ -16,4 +16,12 @@ Ya que tengas el proyecto en tu repositorios, lo abriras y veras la misma pantal
 
 ![](https://www.freecodecamp.org/espanol/news/content/images/2020/12/clone.jpg)
 
-Le darás click al boton verde y te abrira unas opciones, nuevamente daras clikc para copiar la ruta de tu repositorio como en la imagen.
+Le darás click al boton verde y te abrira unas opciones, nuevamente daras click para copiar la ruta de tu repositorio como en la imagen.
+
+## Paso 3: Posicionarte en la carpeta que descargaras el repo
+
+Abriremos nuestra consola y estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
+´´´
+cd Desktop
+´´´
+Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner ´cd desk´ y precionar ´TAB´
