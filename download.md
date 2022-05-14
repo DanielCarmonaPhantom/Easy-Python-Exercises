@@ -18,7 +18,7 @@ Ya que tengas el proyecto en tu repositorios, lo abriras y veras la misma pantal
 
 Le darás click al boton verde y te abrira unas opciones, nuevamente daras click para copiar la ruta de tu repositorio como en la imagen.
 
-## Paso 3: Posicionarte en la carpeta que descargaras el repo
+## Paso 3: Posicionarte en la carpeta donde clonaras el repo
 
 Abriremos nuestra consola y automaticamente estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
 ```Bash
