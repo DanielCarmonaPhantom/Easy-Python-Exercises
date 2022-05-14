@@ -21,7 +21,7 @@ Le darás click al boton verde y te abrira unas opciones, nuevamente daras click
 ## Paso 3: Posicionarte en la carpeta que descargaras el repo
 
 Abriremos nuestra consola y estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
-´´´
+```Basch
 cd Desktop
-´´´
-Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner ´cd desk´ y precionar ´TAB´
+```
+Dependiendo tu sistema oporativo podria ser en minusculas, pero puedes poner `cd desk` y precionar `TAB`
