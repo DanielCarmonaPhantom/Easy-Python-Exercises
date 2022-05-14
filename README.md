@@ -16,3 +16,5 @@ Antes de empezar, te recomendamos leer las <a href='instructions.md'>Instruccion
 
 ## Subir Notebook
 Si quieres que te de feeback sobre las funciones que hiciste, puedes hacer un pull request <a href='pullrequest.md'>siguiendo  estos pasos</a>
+
+<img src='./assets/Footer.png'>
