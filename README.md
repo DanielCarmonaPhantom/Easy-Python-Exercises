@@ -20,6 +20,6 @@ El return es importante ya que es el que te ayudara a saber si tu función esta 
 
 Puedes crear una celda de código para probar tu función.
 
-<img src='./assets/ejemplo3.png' width='550'>
+<img src='./assets/ejemplo3.png' width='450'>
 
 
