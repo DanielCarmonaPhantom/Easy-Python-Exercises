@@ -36,3 +36,7 @@ En tu repositorio que hiciste fork, donde hay un boton arriba a la izquierda que
 ![](https://diarioinforme.com/wp-content/uploads/2022/01/Click-Branches..png)
 
 Vas a darle click al boton main y seleccionaras la rama `exercises`
+
+Ahora te aparecera un recuadro que dice `Esta rama tiene una contribución de: TU NOMBRE` y a la derecha aparece `Contribute`.
+
+![](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png)
