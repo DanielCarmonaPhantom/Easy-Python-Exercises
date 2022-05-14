@@ -31,7 +31,7 @@ Estamos subiendo la rama `exercises` que creamos cuando clonamos el repo.
 
 ### Paso 4: Hacer pull request
 
-En tu repositorio que hiciste fork, donde hay un boton arriba a la izquierda que dice `main`, a lado te debe aparecer `2 branches`.
+Entrarás a tu repositorio que hiciste fork, habrá un boton arriba a la izquierda que dice `main` y a lado te debe aparecer `2 branches`.
 
 ![](https://diarioinforme.com/wp-content/uploads/2022/01/Click-Branches..png)
 
