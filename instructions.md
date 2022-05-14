@@ -19,3 +19,5 @@ Puedes crear una celda de código para probar tu función.
 Abajo de cada ejercicio, viene un código de test que pondra a prueba tu función, enviandole diferentes datos, y despues de hacer el testeo, te dira si tu función paso la prueba.
 
 <img src='./assets/test.png' width='450'>
+
+Ahora si, ¡A darle a los ejercicios!
