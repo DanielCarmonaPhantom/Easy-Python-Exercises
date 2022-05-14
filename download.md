@@ -37,4 +37,8 @@ Debes tener algo así:
 ```Git
 git clone https://github.com/TUUSUARIO/Python-Exercises-Easy.git
 ```
-Le daras enter y automaticamente se te clonara el repositorio en tu escritorio. Ahora ya puedes pasar a las <a href='instructions.md'>Instrucciones del Notebook</a>
+Le daras enter y automaticamente se te clonara el repositorio en tu escritorio. 
+
+Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y seleccionaras la carpeta clonada.
+
+Ahora ya puedes pasar a las <a href='instructions.md'>Instrucciones del Notebook</a>
