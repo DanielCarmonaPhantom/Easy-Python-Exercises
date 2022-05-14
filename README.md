@@ -6,7 +6,7 @@ Cantidad de ejercicios: 10
 
 Para empeazar, deberas descargar la carpeta siguiendo los <a href='download.md'>siguientes pasos</a>
 
-Se cuentan con 10 ejercicios que te explicaran que es lo que debe hacer cada programa solicitado.
+Se cuentan con 10 ejercicios que te explicaran que es lo que debe debe hacer cada programa solicitado.
 
 Ejemplo 1:
 
