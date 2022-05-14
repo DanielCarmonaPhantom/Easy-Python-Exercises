@@ -39,4 +39,4 @@ Vas a darle click al boton main y seleccionaras la rama `exercises`
 
 Ahora te aparecera un recuadro que dice `Esta rama tiene una contribución de: TU NOMBRE` y a la derecha aparece `Contribute`.
 
-![](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png)
+<img src="https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png" width="450">
