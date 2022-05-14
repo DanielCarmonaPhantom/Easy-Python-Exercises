@@ -33,5 +33,5 @@ Estamos subiendo la rama exercises que creamos cuando clonamos el repo.
 
 En tu repositorio que hiciste fork, donde hay un boton arriba a la izquierda que dice `main`, a lado te debe aparecer `2 branches`.
 
-![](https://geeks.ms/jorge/wp-content/uploads/sites/6/2020/10/20201008_02.png)
+![](https://diarioinforme.com/wp-content/uploads/2022/01/Click-Branches..png)
 
