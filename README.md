@@ -7,14 +7,14 @@ Estos ejercicios estan hechos para que puedas practicar tu conocimiento sobre st
 Cantidad de ejercicios: 10
 Dificultad: Facíl
 
-## Descargar la carpeta
+### Descargar la carpeta
 
 Para empezar, deberás descargar la carpeta siguiendo los <a href='download.md'>siguientes pasos</a>
 
-## Instrucciones del notebook
+### Instrucciones del notebook
 Antes de empezar, te recomendamos leer las <a href='instructions.md'>Instrucciones del Notebook</a> que incluye un ejemplo de prueba. 
 
-## Subir Notebook
+### Subir Notebook
 Si quieres que te de feeback sobre las funciones que hiciste, puedes hacer un pull request <a href='pullrequest.md'>siguiendo  estos pasos</a>
 
 <img src='./assets/Footer.png'>
