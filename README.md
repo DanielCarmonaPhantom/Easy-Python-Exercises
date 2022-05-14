@@ -2,4 +2,4 @@
 
 Estos ejercicios estan hechos para que puedas practicar tu conocimiento sobre strings, ciclos y listas.
 
-<a href='download.md'>Pasos para descargar la carpeta</a>: Para poder trabajar ls ejercicios deberas bajarlos siguiendo los pasos.
+Para poder trabajar ls ejercicios deberas bajarlos siguiendo los <a href='download.md'>Pasos para descargar la carpeta</a>: 
