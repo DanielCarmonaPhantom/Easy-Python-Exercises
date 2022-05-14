@@ -32,9 +32,9 @@ Dependiendo tu sistema operativo podría ser en minúsculas, pero puedes poner `
 
 Una vez estando en la carpeta escritorio en la terminal, procederemos a clonar el repositorio de GitHub colocando el comando `git clone` + la url que copiaste en el paso 2
 
-**Windows**: Pondrás `git clone`, presionarás `control` + `c` para pegar la url
+**Windows**: Pondrás `git clone`, + 1 espacio y presionarás `control` + `c` para pegar la url
 
-**Mac**: Pondrás `git clone`, darás click derecho y presionarás pegar.
+**Mac**: Pondrás `git clone`, + 1 espacio y  darás click derecho y presionarás pegar.
 
 Debes tener algo así:
 
