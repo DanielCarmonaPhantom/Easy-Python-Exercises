@@ -35,3 +35,4 @@ En tu repositorio que hiciste fork, donde hay un boton arriba a la izquierda que
 
 ![](https://diarioinforme.com/wp-content/uploads/2022/01/Click-Branches..png)
 
+Vas a darle click al boton main y seleccionaras la rama `exercises`
