@@ -14,4 +14,8 @@ Ejemplo 1:
 
 Lo que debes editar es lo que esta **dentro de la función**.
 
+El return es importante ya que es el que te ayudara a saber si tu función esta correcta.
+
+<img src='./assets/ejemplo2.png' width='450'>
+
 
