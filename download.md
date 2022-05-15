@@ -1,6 +1,6 @@
 # Descargar carpeta:
 
-Para empezar, descargaremos la carpeta desde un fork, esto para que al final, puedas enviarme tus respuestas y pueda darte feedback.
+Para empezar, descargaremos la carpeta desde un fork, esto para que cuando lo hayas terminado, lo subas a tu perfil y te de las soluciones.
 
 Rquesisitos: 
 
