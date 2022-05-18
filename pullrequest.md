@@ -47,6 +47,6 @@ Se desplegara unas opciones y darás click en `Open Pull Requests`.
 
 Ya te abrirá una página para enviar tu trabajo y ya viene definido el nombre de tu trabajo. 
 
-Le darás al botón verde que dice `Create pull request``
+Le darás al botón verde que dice `Create pull request`
 
 ¡Listo! Ya subiste tus ejercicios ¡Felicidades! pronto te mandaré un mensaje comentando las respuestas.
