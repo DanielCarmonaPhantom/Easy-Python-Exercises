@@ -22,9 +22,17 @@ Ya que tengas el proyecto en tu repositorios, lo abrirás y veras la misma panta
 
 Le darás click al botón verde y te abrirá unas opciones, ahora le daras click al de copiar para obtener la ruta de tu repositorio como en la imagen.
 
-## Paso 3: Posicionarte en la carpeta donde clonarás el repo
+## Paso 3: Posicionarte en la carpeta de tu computadora donde clonarás el repo
 
-Abriremos nuestra consola y automáticamente estaremos posicionados en la carpeta de usuario así que nos iremos a la carpeta Desktop con el comando:
+Aquí estaremos utilizando la consola de la computadora, ya sea el cdm de windows o la terminal de Mac/Linux. 
+
+**Para Windows**: Presionamos la tecla Windows + R y escribimos CMD
+
+**Mac/Linux**: Abrimos la aplicación de la terminal.
+
+Abriremos nuestra terminal en la computadora y automáticamente estaremos posicionados en la carpeta de usuario. Para verificar que estamos en usuario podemos utilizar los comandos `dir` en Windows y `pwd` en Mac/linux.
+
+Así que nos iremos a la carpeta Desktop con el comando:
 ```Bash
 cd Desktop
 ```
