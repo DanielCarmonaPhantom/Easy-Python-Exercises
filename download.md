@@ -36,7 +36,7 @@ Así que nos iremos a la carpeta Desktop con el comando:
 ```Bash
 cd Desktop
 ```
-Dependiendo tu sistema operativo podría ser en minúsculas, pero puedes poner `cd desk` y presionar `TAB` y completara por si solo.
+Dependiendo tu sistema operativo podría ser en minúsculas, pero puedes poner `cd Desk` y presionar `TAB` y completara por si solo.
 
 Una vez estando en la carpeta escritorio en la terminal, procederemos a clonar el repositorio de GitHub colocando el comando `git clone` + la url que copiaste en el paso 2
 
