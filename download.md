@@ -58,7 +58,7 @@ Le darás enter y automáticamente se te clonará el repositorio en tu escritori
 
 ### Descargar el zip
 
-En vez de darle al boton copiar, abajo dice `Download ZIP`
+En vez de darle al boton copiar, abajo dice `Download ZIP` y descomprime la carpeta.
 
 ## Paso 3: Crear una rama donde estaras trabajando
 
