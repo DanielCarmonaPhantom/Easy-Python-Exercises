@@ -14,15 +14,20 @@ En la parte superior derecha, hay un botón que dice Fork
 
 Le darás click y te llevará a crear un repositorio propio. Le darás `Create fork` y tendrás el repositorio en tu perfil. Cualquiera que entre a tu perfil vera que trabajaste en proyectos de Python.
 
-## Paso 2: Clonar tu repositorio en tu computadora
+## Paso 2: Descargar la carpeta en tu computadora
+
+Este paso puedes realizarlo de 2 maneras:
+
+1. Clonando el repositorio
+2. Descargando el zip
+
+### Clonar el repositorio
 
 Ya que tengas el proyecto en tu repositorios, lo abrirás y veras la misma pantalla pero ahora hay un botón verde que dice Code
 
 ![](https://www.freecodecamp.org/espanol/news/content/images/2020/12/clone.jpg)
 
 Le darás click al botón verde y te abrirá unas opciones, ahora le daras click al de copiar para obtener la ruta de tu repositorio como en la imagen.
-
-## Paso 3: Posicionarte en la carpeta de tu computadora donde clonarás el repo
 
 Aquí estaremos utilizando la consola de la computadora, ya sea el cdm de windows o la terminal de Mac/Linux. 
 
@@ -50,6 +55,12 @@ Debes tener algo así:
 git clone https://github.com/TUUSUARIO/Python-Exercises-Easy.git
 ```
 Le darás enter y automáticamente se te clonará el repositorio en tu escritorio. 
+
+### Descargar el zip
+
+En vez de darle al boton copiar, abajo dice `Descargar en zip``
+
+## Paso 3: Crear una rama donde estaras trabajando
 
 Para que puedas subir tus cambios, necesitaras trabajar en una nueva rama, solo debes usar el siguiente comando:
 
