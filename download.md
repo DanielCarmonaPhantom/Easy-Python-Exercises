@@ -66,7 +66,7 @@ Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y selecci
 
 Para que puedas subir tus cambios, necesitaras trabajar en una nueva rama.
 
-### Si clonaste el repo, en la misma consola haz:
+### Si clonaste el repo, en la misma consola:
 
 ```Git
 git chekout -b "exercises"
