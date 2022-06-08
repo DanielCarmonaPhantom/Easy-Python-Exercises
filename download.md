@@ -75,5 +75,9 @@ git chekout -b "exercises"
 ### Si lo descargaste.
 Tendras que abrir la terminal de visual code. Hasta arriba en las opciones de ventan, dice `Terminal` y en `Nueva terminal`.
 
+```Git
+git chekout -b "exercises"
+```
+
 
 Ya puedes continuar con las <a href='instructions.md'>Instrucciones del Notebook</a>
