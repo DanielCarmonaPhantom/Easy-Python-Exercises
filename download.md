@@ -37,7 +37,7 @@ Aquí estaremos utilizando la consola de la computadora, ya sea el cdm de window
 
 Abriremos nuestra terminal en la computadora y automáticamente estaremos posicionados en la carpeta de usuario. Para verificar que estamos en usuario podemos utilizar los comandos `dir` en Windows y `pwd` en Mac/linux.
 
-Así que nos iremos a la carpeta Desktop con el comando:
+Así que nos iremos a la carpeta Desktop u Escritorio con el comando:
 ```Bash
 cd Desktop
 ```
@@ -58,16 +58,22 @@ Le darás enter y automáticamente se te clonará el repositorio en tu escritori
 
 ### Descargar el zip
 
-En vez de darle al boton copiar, abajo dice `Descargar en zip``
+En vez de darle al boton copiar, abajo dice `Download ZIP`
 
 ## Paso 3: Crear una rama donde estaras trabajando
 
-Para que puedas subir tus cambios, necesitaras trabajar en una nueva rama, solo debes usar el siguiente comando:
+Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y seleccionamos la carpeta. 
+
+Para que puedas subir tus cambios, necesitaras trabajar en una nueva rama.
+
+### Si clonaste el repo, en la misma consola haz:
 
 ```Git
 git chekout -b "exercises"
 ```
 
-Ya teniendo la carpeta, abre tu editor de código y dale a Open Folder y seleccionamos la carpeta clonada.
+### Si lo descargaste.
+Tendras que abrir la terminal de visual code. Hasta arriba en las opciones de ventan, dice `Terminal` y en `Nueva terminal`.
+
 
 Ya puedes continuar con las <a href='instructions.md'>Instrucciones del Notebook</a>
