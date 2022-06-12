@@ -25,6 +25,12 @@ Presionar enter y esto pondrá nombre a tu trabajo realizado.
 
 Ya que hayas hecho el commit, ahora subirás el proyecto.
 
+Primero haremos un pull para obtener cambios
+```Git
+git pull origin main
+```
+Y ahora si subiras tus ejercicios con:
+
 ```Git
 git push origin exercises
 ```
