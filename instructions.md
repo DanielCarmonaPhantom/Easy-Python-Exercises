@@ -6,7 +6,7 @@ Cada ejercicio vendrá con sus instrucciones. Aquí veremos un ejemplo:
 
 <img src='./assets/ejemplo1.png' width='550'>
 
-Lo que debes editar es lo que esta **dentro de la función**.
+Lo que debes editar es lo que esta **dentro de la función despues de (num1): y devolver lo que se te pide en el return**.
 
 <img src='./assets/ejemplo2.png' width='550'>
 
