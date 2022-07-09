@@ -1,6 +1,6 @@
 # Instrucciones de Notebook
 
-Ya que tienes tu carpta abierta en tu editor de código, los ejercicios se encuentran en el archivo `Ejercicios.ipynb` y será el único archivo que debes trabajar.
+Ya que tienes tu carpeta abierta en tu editor de código, los ejercicios se encuentran en el archivo `Ejercicios.ipynb` y será el único archivo que debes trabajar.
 
 Cada ejercicio vendrá con sus instrucciones. Aquí veremos un ejemplo:
 
