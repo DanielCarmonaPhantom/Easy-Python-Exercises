@@ -2,7 +2,7 @@
 
 Para empezar, descargaremos la carpeta desde un fork, esto para que cuando lo hayas terminado, lo subas a tu perfil y te de las soluciones.
 
-Rquesisitos: 
+Requisitos: 
 
 * Tener instalado git. Si aun no tienes git, sigue este [Tutorial](https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub).
 
